@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://218.23.63.34/app/jingdaios.ipa</string>
+            <string>https://192.168.30.3/E照通.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -34,15 +34,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jingdasoft.portal</string>
+          <string>com.icinfo.EZT</string>
           <key>bundle-version</key>
           <string>0.0.7</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>精达云办公</string>
+          <string>测试APP</string>
           <key>title</key>
-          <string>精达云办公</string>
+          <string>测试APP</string>
         </dict>
       </dict>
     </array>
