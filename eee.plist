@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://218.23.63.34/app/jingdaios.ipa</string>
+            <string>https://test.icinfo.cn:4443/ezt.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
